@@ -1,9 +1,9 @@
 # HR_Analytics_PowerBI_project
 ---
 ## 📑 Table of Contents  
-- [📌 Project Description](#-project-description)  
+- [Project Description](#-project-description)  
 - [Repository Contents](#-repository-contents)  
-- [📌 Project Output](#-project-output)  
+- [Project Output](#-project-output)  
 - [Key Business Insights](#-key-business-insights)  
 - [Recommendations](#-recommendations)  
 - [Limitations](#-limitations)  
@@ -41,7 +41,7 @@ The final deliverable is a Power BI Dashboard that provides clear, actionable in
 - Demographics: Age group, gender, education background
 - Job Factors: Job role, salary slabs, years at company, years in current role
 ---
-## Key Business Insights
+## 🔑 Key Business Insights
 
 - Highest attrition observed among employees aged 26–35 years
 - Employees with lower salary slabs (≤ 5k) contribute most to attrition
@@ -49,7 +49,7 @@ The final deliverable is a Power BI Dashboard that provides clear, actionable in
 - Attrition peaks within the first 2 years of employment
 - Sales department shows a significantly higher attrition rate (20%+) compared to HR and R&D
 ---
-## Recommendations  
+## 📌 Recommendations  
 - Focus retention strategies on the **26–35 age group** and employees in their **first 2 years**.  
 - Revisit pay structure for employees earning **≤ 5k**; add performance incentives.  
 - Address attrition among **Sales Executives** and **Laboratory Technicians** with role-specific programs.  
@@ -58,7 +58,7 @@ The final deliverable is a Power BI Dashboard that provides clear, actionable in
 
 ---
 
-## Limitations  
+## ⚠️ Limitations  
 - Built on a **static CSV file**; no live data refresh.  
 - Dataset excludes factors like **culture, leadership, and well-being**.  
 - Dashboard is **descriptive only**; lacks predictive modeling for attrition forecasting.  
@@ -67,7 +67,7 @@ The final deliverable is a Power BI Dashboard that provides clear, actionable in
 
 ---
 
-## Future Enhancements  
+## 🚀 Future Enhancements  
 
 - **Add More Departments** → Expand dashboards beyond HR, R&D, and Sales for a company-wide view.  
 - **Automated Data Refresh** → Connect Power BI to a database or cloud source for scheduled updates instead of manual CSV loading.  
@@ -78,7 +78,7 @@ The final deliverable is a Power BI Dashboard that provides clear, actionable in
 
 ---
 
-## Tools & Skills Used  
+## 🛠️ Tools & Skills Used  
 
 - **Power BI** → Data modeling, dashboarding, and visual analytics  
 - **DAX** → Measures and KPIs for attrition and workforce metrics  
