@@ -1,7 +1,7 @@
 # HR_Analytics_PowerBI_project
 ---
 ## 📑 Table of Contents  
-- [Project Description](#-project-description)  
+- [Project Description](#project-description)  
 - [Repository Contents](#-repository-contents)  
 - [Project Output](#-project-output)  
 - [Key Business Insights](#-key-business-insights)  
