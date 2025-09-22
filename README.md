@@ -5,7 +5,7 @@ This project focuses on developing a comprehensive HR Analytics Dashboard using 
 
 The process involved:
 
-⦁	Data Cleaning & Transformation using Power Query to prepare raw HR data.\\
+⦁	Data Cleaning & Transformation using Power Query to prepare raw HR data.
 ⦁	Feature Engineering with DAX measures for attrition rate, average salary, average tenure, and other KPIs.
 ⦁	Interactive Dashboard Design with filters and slicers for department, gender, age group, job role, and salary ranges.
 ⦁	Visualization of Attrition Trends across education, job role, salary bands, age groups, and years at the company.
