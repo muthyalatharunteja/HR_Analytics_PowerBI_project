@@ -6,9 +6,9 @@
 - [📌 Project Output](#-project-output)  
 - [🔑 Key Business Insights](#-key-business-insights)  
 - [📌 Recommendations](#-recommendations)  
-- [⚠️ Limitations](#️-limitations)  
-- [🔮 Future Enhancements (Intermediate Roadmap)](#-future-enhancements-intermediate-roadmap)  
-- [🛠️ Tools & Skills Used](#️-tools--skills-used)  
+- [⚠️ Limitations](#-Limitations)  
+- [🔮 Future Enhancement](#-future-enhancements-intermediate-roadmap)  
+- [🛠️ Tools & Skills Used](#-Tools-&-Skills-Used)  
 
 ---
 ## 📌 Project Description
@@ -42,7 +42,7 @@ The final deliverable is a Power BI Dashboard that provides clear, actionable in
 - Demographics: Age group, gender, education background
 - Job Factors: Job role, salary slabs, years at company, years in current role
 ---
-## 🔑Key Business Insights
+## 🔑 Key Business Insights
 
 - Highest attrition observed among employees aged 26–35 years
 - Employees with lower salary slabs (≤ 5k) contribute most to attrition
@@ -59,7 +59,7 @@ The final deliverable is a Power BI Dashboard that provides clear, actionable in
 
 ---
 
-## ⚠️ Limitations  
+## ⚠️  Limitations  
 - Built on a **static CSV file**; no live data refresh.  
 - Dataset excludes factors like **culture, leadership, and well-being**.  
 - Dashboard is **descriptive only**; lacks predictive modeling for attrition forecasting.  
@@ -79,7 +79,7 @@ The final deliverable is a Power BI Dashboard that provides clear, actionable in
 
 ---
 
-## 🛠️ Tools & Skills Used  
+## 🛠️   Tools & Skills Used  
 
 - **Power BI** → Data modeling, dashboarding, and visual analytics  
 - **DAX** → Measures and KPIs for attrition and workforce metrics  
