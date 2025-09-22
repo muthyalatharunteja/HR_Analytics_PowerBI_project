@@ -8,7 +8,7 @@
 - [Recommendations](#recommendations)  
 - [Limitations](#limitations)  
 - [Future Enhancement](#future-enhancements)  
-- [Tools & Skills Used](#tools-&-skills-used)
+- [Tools & Skills Used](#tools-and-skills-used)
 
 ---
 ## Project Description
