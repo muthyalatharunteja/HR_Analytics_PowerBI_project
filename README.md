@@ -40,6 +40,7 @@ The final deliverable is a Power BI Dashboard that provides clear, actionable in
 - Department: HR, Research & Development, and Sales dashboards for deep-dives
 - Demographics: Age group, gender, education background
 - Job Factors: Job role, salary slabs, years at company, years in current role
+  ![HR Analytics Dashboard](all%20hr.png)
 ---
 ## 🔑 Key Business Insights
 
