@@ -6,9 +6,9 @@
 - [📌 Project Output](#-project-output)  
 - [🔑 Key Business Insights](#-key-business-insights)  
 - [📌 Recommendations](#-recommendations)  
-- [⚠️ Limitations](#-Limitations)  
-- [🔮 Future Enhancement](#-future-enhancements-intermediate-roadmap)  
-- [🛠️ Tools & Skills Used](#-Tools-&-Skills-Used)  
+- [⚠️ Limitations](#-limitations)  
+- [🔮 Future Enhancement](#-future-enhancements)  
+- [🛠️ Tools & Skills Used](#-tools-&-skills-used)
 
 ---
 ## 📌 Project Description
@@ -59,7 +59,7 @@ The final deliverable is a Power BI Dashboard that provides clear, actionable in
 
 ---
 
-## ⚠️  Limitations  
+## ⚠️ Limitations  
 - Built on a **static CSV file**; no live data refresh.  
 - Dataset excludes factors like **culture, leadership, and well-being**.  
 - Dashboard is **descriptive only**; lacks predictive modeling for attrition forecasting.  
@@ -68,7 +68,7 @@ The final deliverable is a Power BI Dashboard that provides clear, actionable in
 
 ---
 
-## 🔮 Future Enhancements (Intermediate Roadmap)  
+## 🔮 Future Enhancements  
 
 - **Add More Departments** → Expand dashboards beyond HR, R&D, and Sales for a company-wide view.  
 - **Automated Data Refresh** → Connect Power BI to a database or cloud source for scheduled updates instead of manual CSV loading.  
@@ -79,7 +79,7 @@ The final deliverable is a Power BI Dashboard that provides clear, actionable in
 
 ---
 
-## 🛠️   Tools & Skills Used  
+## 🛠️ Tools & Skills Used  
 
 - **Power BI** → Data modeling, dashboarding, and visual analytics  
 - **DAX** → Measures and KPIs for attrition and workforce metrics  
