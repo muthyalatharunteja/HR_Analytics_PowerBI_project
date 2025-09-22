@@ -25,7 +25,8 @@ The process involved:
 ---
 ## 📂 Repository Contents  
 
-- **HR_Analytics.csv** → Raw HR dataset containing employee details (age, department, salary, attrition, etc.).  
+- **[HR_Analytics.csv](HR_Analytics.csv)** → Raw HR dataset (age, department, salary, attrition, etc.).  
+- **[HR_Analytics.pbix](https://github.com/muthyalatharunteja/HR_Analytics_PowerBI_project/blob/main/HR_Analytics.pbix)** → Power BI dashboard file (open/download in GitHub).  
 - **HR_Analytics.pbix** → Power BI dashboard file with all visuals, measures, and insights.  
 - **README.md** → Project documentation with description, methodology, and outputs.  
 
