@@ -27,8 +27,7 @@ The process involved:
 
 - **[HR_Analytics.csv](HR_Analytics.csv)** → Raw HR dataset (age, department, salary, attrition, etc.).    
 - **[HR_Analytics.pbix](HR_Analytics.pbix)** → Power BI dashboard file with all visuals, measures, and insights.  
-- **README.md** → Project documentation with description, methodology, and outputs.  
-
+- **[README.md](README.md)** → Project documentation with description, methodology, and outputs.  
 ---
 ## 📌 Project Output
 
