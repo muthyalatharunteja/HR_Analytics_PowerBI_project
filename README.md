@@ -3,12 +3,12 @@
 ## 📑 Table of Contents  
 - [Project Description](#project-description)  
 - [Repository Contents](#-repository-contents)  
-- [Project Output](#-project-output)  
-- [Key Business Insights](#-key-business-insights)  
-- [Recommendations](#-recommendations)  
-- [Limitations](#-limitations)  
-- [Future Enhancement](#-future-enhancements)  
-- [Tools & Skills Used](#-tools-&-skills-used)
+- [Project Output](#project-output)  
+- [Key Business Insights](#key-business-insights)  
+- [Recommendations](#recommendations)  
+- [Limitations](#limitations)  
+- [Future Enhancement](#future-enhancements)  
+- [Tools & Skills Used](#tools-&-skills-used)
 
 ---
 ## Project Description
