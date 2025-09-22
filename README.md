@@ -1,4 +1,16 @@
 # HR_Analytics_PowerBI_project
+---
+## 📑 Table of Contents  
+- [📌 Project Description](#-project-description)  
+- [📂 Repository Contents](#-repository-contents)  
+- [📌 Project Output](#-project-output)  
+- [🔑 Key Business Insights](#-key-business-insights)  
+- [📌 Recommendations](#-recommendations)  
+- [⚠️ Limitations](#️-limitations)  
+- [🔮 Future Enhancements (Intermediate Roadmap)](#-future-enhancements-intermediate-roadmap)  
+- [🛠️ Tools & Skills Used](#️-tools--skills-used)  
+
+---
 ## 📌 Project Description
 
 This project focuses on developing a comprehensive HR Analytics Dashboard using Power BI to analyze employee attrition across different departments. The primary goal is to identify key trends, patterns, and factors contributing to attrition, helping HR teams and management make informed, data-driven decisions.
@@ -10,14 +22,14 @@ The process involved:
 - Interactive Dashboard Design with filters and slicers for department, gender, age group, job role, and salary ranges.
 - Visualization of Attrition Trends across education, job role, salary bands, age groups, and years at the company.
 - By leveraging Power BI’s visualization and calculation capabilities, the project delivers an insightful and interactive tool for understanding workforce dynamics.
-
+---
 ## 📂 Repository Contents  
 
 - **HR_Analytics.csv** → Raw HR dataset containing employee details (age, department, salary, attrition, etc.).  
 - **HR_Analytics.pbix** → Power BI dashboard file with all visuals, measures, and insights.  
 - **README.md** → Project documentation with description, methodology, and outputs.  
 
-
+---
 ## 📌 Project Output
 
 The final deliverable is a Power BI Dashboard that provides clear, actionable insights into attrition patterns:
@@ -29,7 +41,7 @@ The final deliverable is a Power BI Dashboard that provides clear, actionable in
 - Department: HR, Research & Development, and Sales dashboards for deep-dives
 - Demographics: Age group, gender, education background
 - Job Factors: Job role, salary slabs, years at company, years in current role
-
+---
 ## 🔑Key Business Insights
 
 - Highest attrition observed among employees aged 26–35 years
@@ -37,7 +49,7 @@ The final deliverable is a Power BI Dashboard that provides clear, actionable in
 - Sales Executives and Laboratory Technicians show the highest job-role attrition
 - Attrition peaks within the first 2 years of employment
 - Sales department shows a significantly higher attrition rate (20%+) compared to HR and R&D
-
+---
 ## 📌 Recommendations  
 - Focus retention strategies on the **26–35 age group** and employees in their **first 2 years**.  
 - Revisit pay structure for employees earning **≤ 5k**; add performance incentives.  
